@@ -6,4 +6,4 @@ Està implementat com a Singleton i es fan servir els loggers per les traces d�
 
 S’ha implementat el servei REST de les funcions que es demanaven a la part 1.
 
-S'han entregat els fitxers que s'han creat i la carpeta que conté tot el projecte.
+S'han entregat els fitxers que s'han creat i a la branca master tot el projecte.
